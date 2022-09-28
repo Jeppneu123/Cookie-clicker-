@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: Gabriola;
+    font-size: 250%;
+}
+
+#introduction {
+    border: double 10px beige;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    background-color: darkslategrey;
+
+}
+#headline {
+    margin: 1px;
+}
